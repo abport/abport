@@ -6,5 +6,9 @@
     ><img
       src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
       height="25"
-  /></a> or [LinkedIn](https://www.linkedin.com/in/aminbeheshti/)
+  /></a> <a href="https://www.linkedin.com/in/aminbeheshti"
+    ><img
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+      height="25"
+  /></a>
 </p>
