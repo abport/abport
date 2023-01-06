@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amin!
 - 👀 I’m interested in Full Stack Developing
-- 🌱 I’m currently learning Python, JavaScript and React Native
+- 🌱 My Preferred Programming Languages are Python and JavaScript
 - 📫 You can contact me on Social Media 
 <p> <a href="https://www.instagram.com/aminbeheshti_com/"
     ><img
