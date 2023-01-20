@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amin!
 - 👀 I’m interested in Full Stack Developing
-- 🌱 Python and JavaScript are My Preferred Programming Languages
+- 🌱 Python, JavaScript and Kotlin are My Preferred Programming Languages
 - 📫 You can contact me on Social Media 
 <p> <a href="https://www.instagram.com/aminbeheshti_com/"
     ><img
