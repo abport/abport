@@ -1,14 +1,15 @@
-- 👋 Hi, I’m Amin!
-- 👀 I’m interested in Full Stack Developing
-- 🌱 Python, JavaScript and C# are My Preferred Programming Languages
-- 📫 You can contact me on Social Media 
-<p> <a href="https://www.instagram.com/aminbeheshti_com/"
-    ><img
-      src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
-      height="25"
-  /></a> <a href="https://www.linkedin.com/in/aminbeheshti"
-    ><img
-      src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-      height="25"
-  /></a>
-</p>
+# Hi, I'm Amin Beheshti 👋
+
+🏙️ Software Engineer | GIS & Geospatial Developer | Security Researcher
+
+I build geospatial tools, urban data systems, and conduct responsible security research.
+
+**Open to:** GIS Developer, Application Security Engineer, and Smart City Technology roles
+
+## 🔧 What I Work On
+
+- 🗺️ **GIS & Spatial Systems** — Leaflet.js, QGIS, ArcGIS/ArcMap
+- ⚙️ **C# / .NET / SQL Server** — Enterprise software for municipal systems
+- 🐍 **Python** — Automation, image processing, and geospatial data processing
+- 🔐 **Security Research** — Web2 & Web3 vulnerability disclosure and responsible disclosure programs
+- 🌐 **Web Development** — JavaScript, PHP, WordPress
