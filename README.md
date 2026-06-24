@@ -2,7 +2,7 @@
 
 🏙️ Software Engineer | GIS & Geospatial Developer | Security Researcher
 
-I build geospatial tools, urban data systems, and conduct responsible security research.
+I am a Software Engineer with over a decade of experience building software, managing systems, and analyzing spatial data. Alongside development, I perform independent vulnerability research, specializing in Web2 and Web3 security.
 
 **Open to:** GIS Developer, Application Security Engineer, and Smart City Technology roles
 
