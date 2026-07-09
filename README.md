@@ -4,8 +4,6 @@
 
 I am a Software Engineer with over a decade of experience building software, managing systems, and analyzing spatial data. Alongside development, I perform independent vulnerability research, specializing in Web2 and Web3 security.
 
-**Open to:** GIS Developer, Application Security Engineer, and Smart City Technology roles
-
 ## 🔧 What I Work On
 
 - 🗺️ **GIS & Spatial Systems** — Leaflet.js, QGIS, ArcGIS/ArcMap
